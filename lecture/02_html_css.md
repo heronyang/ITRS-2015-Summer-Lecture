@@ -8,7 +8,7 @@
 ## XML
 
 - HTML is originally designed from XML
-- **Start Tag** and **End Tag**: \<p\>Hello\<\/p\>
+- **Start Tag** and **End Tag**: \<p\>Hello\</p\>
 
 ## HTML
 
@@ -38,7 +38,7 @@
 
 ## Task
 
-Create a new repo called **random-generator** with one index.html file having following things:
+    Create a new repo called **random-generator** with one index.html file having following things:
 
-    - elements: text input, button with text 'click me', p with green background
-    - make is as beautiful as you can
+- elements: text input, button with text 'click me', p with green background
+- make is as beautiful as you can
