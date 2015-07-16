@@ -38,7 +38,7 @@
 
 ## Task
 
-    Create a new repo called **random-generator** with one index.html file having following things:
+Create a new repo called **random-generator** with one index.html file having following things:
 
 - elements: text input, button with text 'click me', p with green background
 - make is as beautiful as you can
