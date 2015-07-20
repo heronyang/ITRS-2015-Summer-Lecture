@@ -42,3 +42,7 @@ Create a new repo called **random-generator** with one index.html file having fo
 
 - elements: text input, button with text 'click me', p with green background
 - make is as beautiful as you can
+
+## Other
+
+- self-learn tutorial: [Code Academy](https://www.codecademy.com)
