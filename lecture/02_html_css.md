@@ -31,6 +31,27 @@
     - \<style\> tag in HTML file
     - \<link rel="stylesheet" type="text/css" href="mystyle.css"\> in \<head\> to link to external \*.css file
 - tag selector [great tutorial is here](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
+- px, em, percentage / color ([color tool](http://paletton.com/))
+- [Google Font](https://www.google.com/fonts)
+- elements:
+    - background-color
+    - color
+    - font
+    - links
+    - margin
+    - padding
+- mobile (media tag)
+- resource: [W3Schools CSS](http://www.w3schools.com/css/default.asp)
+### Task
+    - you need following elements
+        - header
+        - big symbol
+        - reset button
+        - time text
+    - reset button should have rounded corner
+    - put everything in the center
+    - apply one Google font
+    - add any design as you like
 
 ## Debug
 
