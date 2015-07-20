@@ -44,15 +44,15 @@
 - resource: [W3Schools CSS](http://www.w3schools.com/css/default.asp)
 
 ### Task
-    - you need following elements
-        - header
-        - big symbol
-        - reset button
-        - time text
-    - reset button should have rounded corner
-    - put everything in the center
-    - apply one Google font
-    - add any design as you like
+- you need following elements
+    - header
+    - big symbol
+    - reset button
+    - time text
+- reset button should have rounded corner
+- put everything in the center
+- apply one Google font
+- add any design as you like
 
 ## Debug
 
