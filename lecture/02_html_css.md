@@ -42,6 +42,7 @@
     - padding
 - mobile (media tag)
 - resource: [W3Schools CSS](http://www.w3schools.com/css/default.asp)
+
 ### Task
     - you need following elements
         - header
