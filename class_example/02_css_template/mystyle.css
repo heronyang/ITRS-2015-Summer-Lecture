@@ -1,3 +1,25 @@
+/*
+ * id
+ */
 #my_head_2 {
     color: blue;
+}
+
+#myP {
+    color: green;
+}
+
+/*
+ * class
+ */
+.myClass {
+    color: red;
+}
+
+.myClass2 {
+    text-decoration: bold;
+}
+
+h1 {
+    font-size: 30px;
 }
