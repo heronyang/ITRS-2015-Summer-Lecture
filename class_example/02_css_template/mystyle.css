@@ -1,6 +1,4 @@
-/*
- * id
- */
+/
 #my_head_2 {
     color: blue;
 }
@@ -9,15 +7,8 @@
     color: green;
 }
 
-/*
- * class
- */
 .myClass {
     color: red;
-}
-
-.myClass2 {
-    text-decoration: bold;
 }
 
 h1 {
