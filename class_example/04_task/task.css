@@ -1,0 +1,27 @@
+html {
+    background-color: #9D7452;
+    color: #FFEDDF;
+    text-align: center;
+    font-family: 'Waiting for the Sunrise', cursive;
+}
+
+#big_symbol {
+    font-size: 3em;
+    color: #C6CFCF;
+    font-weight: bold;
+}
+
+#reset_btn {
+    border-radius: 25px;
+    background-color: #B5CFB5;
+    color: #417E41;
+    font-size: 1.2em;
+}
+
+#reset_btn {
+    font-family: 'Waiting for the Sunrise', cursive;
+}
+
+h1 {
+    margin-top: 3em;
+}

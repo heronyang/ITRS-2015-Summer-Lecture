@@ -1,5 +1,15 @@
 # Final Task
 
+## Review
+
+Here are the things you have to setup before starting this task:
+
+- [Brackets](http://brackets.io/): text editor
+- [GitHub](https://pages.github.com)
+    - Register GitHub account, verify your email
+    - Create a *username*.github.io repo
+    - Add new code, commit, then publish the code
+
 ## Abstract
 
 After our one week workshop, you should gain following knowledges:
@@ -16,7 +26,7 @@ also,
 
 Now, we are building one last website to end this workshop having following design goal:
 
-    test the users' typing speed
+    measure typing speed
 
 ## Specification
 
@@ -42,6 +52,7 @@ Now, we are building one last website to end this workshop having following desi
 - show future words (or "character"), so the user have time to prepare
 - load the words randomly
 - support mobile
+- build a better typing test website than [10fastfingers.com](http://10fastfingers.com/typing-test/english) or my [typoo](http://typoo.nctucs.net/)
 
 ## Submit
 
