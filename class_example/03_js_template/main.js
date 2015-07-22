@@ -6,6 +6,8 @@ console.log("Hello");
 
 $('#myButton').click(function() {
 
+    console.log("button is clicked");
+
     // get
     var inputText = $('#input').val();
     console.log("get text: " + inputText);
